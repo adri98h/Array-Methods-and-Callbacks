@@ -117,7 +117,9 @@ function getAverageGoals(data) {
     return (homeAndAwayGoals / data.length).toFixed(2);
 }
 
-console.log(getAverageGoals(fifaData));
+//console.log(getAverageGoals(fifaData));
+
+
 /// 🥅 STRETCH 🥅 ///
 
 /* 💪💪💪💪💪 Stretch 1: 💪💪💪💪💪 
